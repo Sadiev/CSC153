@@ -1,0 +1,13 @@
+C:\Users\sadievd7549\Desktop\BMI\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\sadievd7549\Desktop\BMI\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\sadievd7549\Desktop\BMI\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\sadievd7549\Desktop\BMI\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\sadievd7549\Desktop\BMI\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\sadievd7549\Desktop\BMI\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\sadievd7549\Desktop\BMI\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\BMI_sadievd7549\BMI\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\BMI_sadievd7549\BMI\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\BMI_sadievd7549\BMI\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\BMI_sadievd7549\BMI\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\BMI_sadievd7549\BMI\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\BMI_sadievd7549\BMI\ConsoleUI\obj\Debug\ConsoleUI.pdb

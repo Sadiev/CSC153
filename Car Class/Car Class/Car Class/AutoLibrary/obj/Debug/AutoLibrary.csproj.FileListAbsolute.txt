@@ -1,0 +1,6 @@
+C:\Users\buckwelw5455\Desktop\Car Class\AutoLibrary\bin\Debug\AutoLibrary.dll
+C:\Users\buckwelw5455\Desktop\Car Class\AutoLibrary\bin\Debug\AutoLibrary.pdb
+C:\Users\buckwelw5455\Desktop\Car Class\AutoLibrary\obj\Debug\AutoLibrary.csprojAssemblyReference.cache
+C:\Users\buckwelw5455\Desktop\Car Class\AutoLibrary\obj\Debug\AutoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\buckwelw5455\Desktop\Car Class\AutoLibrary\obj\Debug\AutoLibrary.dll
+C:\Users\buckwelw5455\Desktop\Car Class\AutoLibrary\obj\Debug\AutoLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\buckwelw5455\Desktop\Car Class\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\buckwelw5455\Desktop\Car Class\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\buckwelw5455\Desktop\Car Class\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\buckwelw5455\Desktop\Car Class\ConsoleUI\bin\Debug\AutoLibrary.dll
+C:\Users\buckwelw5455\Desktop\Car Class\ConsoleUI\bin\Debug\AutoLibrary.pdb
+C:\Users\buckwelw5455\Desktop\Car Class\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\buckwelw5455\Desktop\Car Class\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\buckwelw5455\Desktop\Car Class\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\buckwelw5455\Desktop\Car Class\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\buckwelw5455\Desktop\Car Class\ConsoleUI\obj\Debug\ConsoleUI.pdb

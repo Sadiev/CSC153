@@ -1,0 +1,6 @@
+C:\Users\sadievd7549\Desktop\GradeProgram4\ClassLibraryGrade\bin\Debug\ClassLibraryGrade.dll
+C:\Users\sadievd7549\Desktop\GradeProgram4\ClassLibraryGrade\bin\Debug\ClassLibraryGrade.pdb
+C:\Users\sadievd7549\Desktop\GradeProgram4\ClassLibraryGrade\obj\Debug\ClassLibraryGrade.csprojAssemblyReference.cache
+C:\Users\sadievd7549\Desktop\GradeProgram4\ClassLibraryGrade\obj\Debug\ClassLibraryGrade.csproj.CoreCompileInputs.cache
+C:\Users\sadievd7549\Desktop\GradeProgram4\ClassLibraryGrade\obj\Debug\ClassLibraryGrade.dll
+C:\Users\sadievd7549\Desktop\GradeProgram4\ClassLibraryGrade\obj\Debug\ClassLibraryGrade.pdb
