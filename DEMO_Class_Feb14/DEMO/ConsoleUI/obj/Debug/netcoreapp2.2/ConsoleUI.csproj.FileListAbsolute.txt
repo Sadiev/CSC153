@@ -1,0 +1,11 @@
+C:\Users\sadievd7549\Desktop\DEMO\ConsoleUI\bin\Debug\netcoreapp2.2\ConsoleUI.deps.json
+C:\Users\sadievd7549\Desktop\DEMO\ConsoleUI\bin\Debug\netcoreapp2.2\ConsoleUI.runtimeconfig.json
+C:\Users\sadievd7549\Desktop\DEMO\ConsoleUI\bin\Debug\netcoreapp2.2\ConsoleUI.runtimeconfig.dev.json
+C:\Users\sadievd7549\Desktop\DEMO\ConsoleUI\bin\Debug\netcoreapp2.2\ConsoleUI.dll
+C:\Users\sadievd7549\Desktop\DEMO\ConsoleUI\bin\Debug\netcoreapp2.2\ConsoleUI.pdb
+C:\Users\sadievd7549\Desktop\DEMO\ConsoleUI\obj\Debug\netcoreapp2.2\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\sadievd7549\Desktop\DEMO\ConsoleUI\obj\Debug\netcoreapp2.2\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\sadievd7549\Desktop\DEMO\ConsoleUI\obj\Debug\netcoreapp2.2\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\sadievd7549\Desktop\DEMO\ConsoleUI\obj\Debug\netcoreapp2.2\ConsoleUI.AssemblyInfo.cs
+C:\Users\sadievd7549\Desktop\DEMO\ConsoleUI\obj\Debug\netcoreapp2.2\ConsoleUI.dll
+C:\Users\sadievd7549\Desktop\DEMO\ConsoleUI\obj\Debug\netcoreapp2.2\ConsoleUI.pdb

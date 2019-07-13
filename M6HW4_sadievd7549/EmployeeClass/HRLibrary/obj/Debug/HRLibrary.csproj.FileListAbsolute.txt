@@ -1,0 +1,5 @@
+C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\HRLibrary\bin\Debug\HRLibrary.dll
+C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\HRLibrary\bin\Debug\HRLibrary.pdb
+C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\HRLibrary\obj\Debug\HRLibrary.csprojResolveAssemblyReference.cache
+C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\HRLibrary\obj\Debug\HRLibrary.dll
+C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\HRLibrary\obj\Debug\HRLibrary.pdb
