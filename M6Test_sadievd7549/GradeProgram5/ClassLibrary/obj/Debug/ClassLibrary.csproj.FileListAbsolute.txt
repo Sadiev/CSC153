@@ -1,6 +1,0 @@
-C:\Users\sadievd7549\Desktop\GradeProgram5\ClassLibrary\bin\Debug\ClassLibrary.dll
-C:\Users\sadievd7549\Desktop\GradeProgram5\ClassLibrary\bin\Debug\ClassLibrary.pdb
-C:\Users\sadievd7549\Desktop\GradeProgram5\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
-C:\Users\sadievd7549\Desktop\GradeProgram5\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
-C:\Users\sadievd7549\Desktop\GradeProgram5\ClassLibrary\obj\Debug\ClassLibrary.dll
-C:\Users\sadievd7549\Desktop\GradeProgram5\ClassLibrary\obj\Debug\ClassLibrary.pdb

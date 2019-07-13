@@ -1,6 +1,0 @@
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\AgeClassifier\ConsoleUI\bin\Debug\ConsoleUI.exe.config
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\AgeClassifier\ConsoleUI\bin\Debug\ConsoleUI.exe
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\AgeClassifier\ConsoleUI\bin\Debug\ConsoleUI.pdb
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\AgeClassifier\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\AgeClassifier\ConsoleUI\obj\Debug\ConsoleUI.exe
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\CSC153\AgeClassifier\ConsoleUI\obj\Debug\ConsoleUI.pdb

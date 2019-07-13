@@ -1,8 +1,0 @@
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\ConsoleUI\bin\Debug\ConsoleUI.exe.config
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\ConsoleUI\bin\Debug\ConsoleUI.exe
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\ConsoleUI\bin\Debug\ConsoleUI.pdb
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\ConsoleUI\bin\Debug\HRLibrary.dll
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\ConsoleUI\bin\Debug\HRLibrary.pdb
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\ConsoleUI\obj\Debug\ConsoleUI.exe
-C:\Users\dilsh.DESKTOP-RKIOIBG\Desktop\EmployeeClass\ConsoleUI\obj\Debug\ConsoleUI.pdb

@@ -1,7 +1,0 @@
-C:\Users\sadievd7549\Desktop\GradeProgram3\ConsoleUI\bin\Debug\ConsoleUI.exe.config
-C:\Users\sadievd7549\Desktop\GradeProgram3\ConsoleUI\bin\Debug\ConsoleUI.exe
-C:\Users\sadievd7549\Desktop\GradeProgram3\ConsoleUI\bin\Debug\ConsoleUI.pdb
-C:\Users\sadievd7549\Desktop\GradeProgram3\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
-C:\Users\sadievd7549\Desktop\GradeProgram3\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
-C:\Users\sadievd7549\Desktop\GradeProgram3\ConsoleUI\obj\Debug\ConsoleUI.exe
-C:\Users\sadievd7549\Desktop\GradeProgram3\ConsoleUI\obj\Debug\ConsoleUI.pdb
